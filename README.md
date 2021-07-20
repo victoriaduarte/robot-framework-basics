@@ -7,7 +7,7 @@ This project is an Web and API REST test automation with Robot Framework.
 
 **Web:** [Automation Practice](http://automationpractice.com/index.php)
 
-**API:** [FakeRESTApi](https://fakerestapi.azurewebsites.net/index.htmlp)
+**API:** [FakeRESTApi](https://fakerestapi.azurewebsites.net/index.html)
 
 ## 🐱‍💻 Course 
 
