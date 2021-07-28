@@ -45,7 +45,7 @@ Download and extract the executable files of correspondent Operational System:
 
 ### Extensions for Visual Studio Code
 - **Robot Framework Intellisense** *by Tomi Turtiainen* supports Robot Framework development
-- **RobotF Extension** *by KMK Labs* useful for document formatter and variable, language and keyword autocomplete, and other resources
+- **Robot Framework Language Server** *by Robocorp* useful for document formatter and variable, language and keyword autocomplete, and other resources
 
 ## :rocket: Usage
 
